@@ -1,16 +1,10 @@
-# Tree-Planner
+# KET-QA
 
-This is the repository that contains source code for the [Tree-Planner website](https://tree-planner.github.io).
+This is the repository that contains source code for the [KET-QA website](https://ketqa.github.io).
 The source code is borrowed from [Nefies website](https://nerfies.github.io/)
 
 If you find Tree-Planner useful for your work please cite:
 ```
-@article{hu2023tree,
-  title={Tree-Planner: Efficient Close-loop Task Planning with Large Language Models},
-  author={Hu, Mengkang and Mu, Yao and Yu, Xinmiao and Ding, Mingyu and Wu, Shiguang and Shao, Wenqi and Chen, Qiguang and Wang, Bin and Qiao, Yu and Luo, Ping},
-  journal={arXiv preprint arXiv:2310.08582},
-  year={2023}
-}
 ```
 
 # Website License
